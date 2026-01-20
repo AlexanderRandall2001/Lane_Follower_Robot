@@ -31,7 +31,8 @@ Being my first personal project, I developed practical experience in python prog
 
 # Analysis
 Critically damped step response with analytically derived gains
-![plot]()
+
+![plot](PD_Step_Response.png)
 
 
 
